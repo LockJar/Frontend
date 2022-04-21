@@ -14,3 +14,8 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+Hardhat Tutorial:
+https://hardhat.org/getting-started/
+https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13
+https://github.com/dabit3/full-stack-ethereum
